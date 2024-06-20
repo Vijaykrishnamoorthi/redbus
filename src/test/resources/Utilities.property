@@ -1,0 +1,10 @@
+#Upadate QA URL
+#Fri Jun 21 00:48:49 IST 2024
+envl=uat
+password=password
+url="https\://www.facebook.com/"
+file=C\:\\Users\\91637\\eclipse-workspace1\\redbus\\src\\test\\resources\\Utilities.property
+key=value
+env=qa
+urllQa=https\://www.facebook.com/
+username=vijay
